@@ -8,6 +8,7 @@ h1 {
 
 #webpage {
     width: 100%;
+    min-width:1000px;
     height: auto;
 }
 
