@@ -7,6 +7,12 @@ h1 {
 }
 
 #webpage {
+    font-size: 150%;
+}
+
+
+#content {
+    
     width: 100%;
     min-width:1000px;
     height: auto;
