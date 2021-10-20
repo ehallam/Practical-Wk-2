@@ -1,4 +1,18 @@
-h1 {background-color: lightblue;
-font-size: 150%;}
+h1 {
+    background-color: lightblue;
+}
 
-.embedded_list {font-size: 90%;}
+.embedded_list {
+    font-size: 90%;
+}
+
+#webpage {
+    width: 100%;
+    height: auto;
+}
+
+.lists {
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
